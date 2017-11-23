@@ -6,4 +6,4 @@ Prerequisites: Go
 * go run main.go
 
 ### TODO
-* Automatic generate logs.
+* Create log generator.
