@@ -2,8 +2,8 @@
 
 Prerequisites: Go
 
-How to run:
-2. go run main.go
+### How it works:
+* go run main.go
 
 ### TODO
 * Automatic generate logs.
